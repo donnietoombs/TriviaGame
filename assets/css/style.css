@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/nfl\ image\ 1.jfif)
+}
+
+
+#gameHead{
+    font-size: 50px;
+    color: red;
+}
+
+.answers1, .answers2, .answers3 {
+	text-align: center;
+	border: solid 2px black;
+	border-radius: 5%;
+    font-size: 20px;
+}
+.answerChoice{
+    background-color: white;
+    height: 30px;
+    font-size: 28px;
+    line-height: 30px;
+
+}
+.questionShow{
+    font-size: 35px;
+}
+
+.answerBox{
+    font-size: 25px;
+}

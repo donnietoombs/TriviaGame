@@ -17,7 +17,7 @@ $(document).ready(function() {
 
         {
             question: "The superbowl trophy is named after what famous coach?",
-            answers: ["Bill Belechick", "Vince Lombardi", "Nick Saban", "Joe Gibbs"],
+            answers: ["Bill Belichick", "Vince Lombardi", "Nick Saban", "Joe Gibbs"],
             correctChoice: "Vince Lombardi",
         }
 
